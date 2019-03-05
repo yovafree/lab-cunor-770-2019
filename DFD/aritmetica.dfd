@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+'Ingrese el primer valor: '
+5
+1
+1
+x
+4
+1
+29
+'Ingrese el segundo número: '
+5
+1
+1
+y
+6
+3
+4
+suma
+3
+x+y
+5
+resta
+3
+x-y
+5
+multi
+3
+x*y
+4
+1
+35
+'La suma de los numeros es: ', suma
+4
+1
+37
+'La resta de los numeros es: ', resta
+4
+1
+46
+'La multiplicación de los numeros es: ', multi
+4
+1
+25
+'La división es: ', (x/y)
+1

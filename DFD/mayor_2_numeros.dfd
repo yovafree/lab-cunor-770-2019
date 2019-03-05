@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+25
+'Ingrese el primer valor'
+5
+1
+1
+x
+4
+1
+26
+'Ingrese el segundo valor'
+5
+1
+1
+y
+7
+0
+1
+3
+x<y
+4
+1
+18
+'El menor es: ', y
+13
+4
+1
+17
+'El menor es ', x
+13
+7
+0
+1
+3
+x>y
+4
+1
+18
+'El mayor es: ', y
+13
+4
+1
+18
+'El mayor es: ', x
+13
+1

@@ -1,0 +1,105 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'Ingrese el primer número: '
+5
+1
+1
+x
+4
+1
+29
+'Ingrese el segundo número: '
+5
+1
+1
+y
+4
+1
+28
+'Ingrese el tercer número: '
+5
+1
+1
+z
+7
+0
+1
+3
+x>y
+7
+0
+1
+3
+y>z
+4
+1
+18
+'El mayor es: ', z
+13
+4
+1
+18
+'El mayor es: ', y
+13
+13
+7
+0
+1
+3
+x>z
+4
+1
+18
+'El mayor es: ', z
+13
+4
+1
+18
+'El mayor es: ', x
+13
+13
+7
+0
+1
+3
+x<y
+7
+0
+1
+3
+y<z
+4
+1
+18
+'El menor es: ', z
+13
+4
+1
+18
+'El menor es: ', y
+13
+13
+7
+0
+1
+3
+x<z
+4
+1
+18
+'El menor es: ', z
+13
+4
+1
+18
+'El menor es: ', x
+13
+13
+1
