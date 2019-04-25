@@ -13,6 +13,8 @@ import Objetos.Fruta;
  */
 public class Principal {
     static Fruta[] lstFrutas = new Fruta[10];
+    
+    
     public static void main(String[] args){
         lstFrutas[0] = new Fruta();
         lstFrutas[0].color = "Roja";
